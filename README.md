@@ -17,6 +17,14 @@
 ослы), а затем объединить их. Просмотреть содержимое созданного файла.
 Переименовать файл, дав ему новое имя (Друзья человека).
 
+Создание файлов:
+
+![create_files](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_one_i_1.png?raw=true)
+
+Объединение файлов:
+
+![merging_files](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_one_i_2.png?raw=true)
+
 2. Создать директорию, переместить файл туда.
 
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
