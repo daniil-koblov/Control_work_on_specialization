@@ -21,11 +21,13 @@
 
 ![create_files](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_one_i_1.png?raw=true)
 
-Объединение и переименование файла:
+Объединение файлов и переименование нового:
 
 ![merging_files](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_one_i_2.png?raw=true)
 
 2. Создать директорию, переместить файл туда.
+
+![moving_file]()
 
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
 из этого репозитория.
