@@ -21,7 +21,7 @@
 
 ![create_files](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_one_i_1.png?raw=true)
 
-Объединение файлов:
+Объединение и переименование файла:
 
 ![merging_files](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_one_i_2.png?raw=true)
 
