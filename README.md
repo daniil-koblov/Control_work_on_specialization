@@ -27,7 +27,7 @@
 
 2. Создать директорию, переместить файл туда.
 
-![moving_file]()
+![moving_file](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_two_i_1.png?raw=true)
 
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
 из этого репозитория.
