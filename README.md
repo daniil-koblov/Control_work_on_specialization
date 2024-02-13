@@ -107,7 +107,9 @@
 12. Объединить все таблицы в одну, при этом сохраняя поля, указывающие на
 прошлую принадлежность к старым таблицам.
 
+![merging_all_table_1](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_twelve_i_1.png?raw=true)
 
+![merging_all_table_2](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_twelve_i_2.png?raw=true)
 
 ### Задания по созданию программы.
 
