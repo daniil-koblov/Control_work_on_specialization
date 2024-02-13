@@ -86,9 +86,23 @@
 10. Удалив из таблицы верблюдов, т.к. верблюдов решили перевезти в другой
 питомник на зимовку. Объединить таблицы лошади, и ослы в одну таблицу.
 
+![delete_values_1](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_ten_i_1.png?raw=true)
+
+![delete_values_2](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_ten_i_2.png?raw=true)
+
+![merging_tables](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_ten_i_3.png?raw=true)
+
 11. Создать новую таблицу “молодые животные” в которую попадут все
 животные старше 1 года, но младше 3 лет и в отдельном столбце с точностью
 до месяца подсчитать возраст животных в новой таблице.
+
+![create_new_table_1]()
+
+![create_new_table_2]()
+
+![create_new_table_3]()
+
+![create_new_table_4]()
 
 12. Объединить все таблицы в одну, при этом сохраняя поля, указывающие на
 прошлую принадлежность к старым таблицам.
