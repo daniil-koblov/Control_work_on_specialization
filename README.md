@@ -73,15 +73,15 @@
 9. Заполнить низкоуровневые таблицы именами(животных), командами
 которые они выполняют и датами рождения.
 
-![add_tables_1]()
+![add_tables_1](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_nine_i_1.png?raw=true)
 
-![add_tables_2]()
+![add_tables_2](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_nine_i_2.png?raw=true)
 
-![add_tables_3]()
+![add_tables_3](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_nine_i_3.png?raw=true)
 
-![add_tables_4]()
+![add_tables_4](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_nine_i_4.png?raw=true)
 
-![add_tables_5]()
+![add_tables_5](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_nine_i_5.png?raw=true)
 
 10. Удалив из таблицы верблюдов, т.к. верблюдов решили перевезти в другой
 питомник на зимовку. Объединить таблицы лошади, и ослы в одну таблицу.
