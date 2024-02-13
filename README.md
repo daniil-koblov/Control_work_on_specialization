@@ -32,9 +32,17 @@
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
 из этого репозитория.
 
+![install_package_1](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_three_i_1.png?raw=true)
+
+![install_package_2](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_three_i_2.png?raw=true)
+
 4. Установить и удалить deb-пакет с помощью dpkg.
 
+![delete_dep-package](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_four_i_1.png?raw=true)
+
 5. Выложить историю команд в терминале ubuntu.
+
+
 
 6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние
 животные и вьючные животные, в составы которых в случае домашних
