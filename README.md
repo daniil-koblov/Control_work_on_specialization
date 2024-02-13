@@ -53,10 +53,12 @@
 животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
 войдут: Лошади, верблюды и ослы).
 
-![diagram]()
+![diagram](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_six_i_1.png?raw=true)
 
 7. В подключенном MySQL репозитории создать базу данных “Друзья
 человека”.
+
+![create_database](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_seven_i_1.png?raw=true)
 
 8. Создать таблицы с иерархией из диаграммы в БД.
 
