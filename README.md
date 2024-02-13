@@ -96,16 +96,18 @@
 животные старше 1 года, но младше 3 лет и в отдельном столбце с точностью
 до месяца подсчитать возраст животных в новой таблице.
 
-![create_new_table_1]()
+![create_new_table_1](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_eleven_i_1.png?raw=true)
 
-![create_new_table_2]()
+![create_new_table_2](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_eleven_i_2.png?raw=true)
 
-![create_new_table_3]()
+![create_new_table_3](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_eleven_i_3.png?raw=true)
 
-![create_new_table_4]()
+![create_new_table_4](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_eleven_i_4.png?raw=true)
 
 12. Объединить все таблицы в одну, при этом сохраняя поля, указывающие на
 прошлую принадлежность к старым таблицам.
+
+
 
 ### Задания по созданию программы.
 
