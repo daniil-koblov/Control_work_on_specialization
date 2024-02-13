@@ -42,11 +42,11 @@
 
 5. Выложить историю команд в терминале ubuntu.
 
-![command_history_1]()
+![command_history_1](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_five_i_1.png?raw=true)
 
-![command_history_2]()
+![command_history_2](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_five_i_2.png?raw=true)
 
-![command_history_3]()
+![command_history_3](https://github.com/daniil-koblov/Control_work_on_specialization/blob/main/image/task_five_i_3.png?raw=true)
 
 6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние
 животные и вьючные животные, в составы которых в случае домашних
